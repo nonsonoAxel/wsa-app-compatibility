@@ -56,6 +56,7 @@ wsa://com.android.settings
 |----------------|-----------------------|---------------|---------------|-------|
 | 23andMe | 5.114.0 | ✅ |||
 | 4PDA | 1.9.35 | ✅ |||
+| 8 Ball Pool | 5.5.6 |  ✅  | 
 | A+ Gallery | 2.2.55.4 | ✅ | You might face graphical glitches when using dark theme, hence its recommended to use light theme instead. ||
 | ADM | 12.5.4 | ✅ |||
 | ADM Pro | 6.4.0 | ✅ |||
@@ -239,6 +240,7 @@ wsa://com.android.settings
 | Reddit | | ✅ |||
 | Relay | 10.0.378 | ✅ |||
 | Remote Desktop (Microsoft) | 10.0.12.1148 | ✅|||
+| Rise of Kingdoms: Lost Crusade | 1.0.51.20 |  ⚠️  |  Game starts and allows you to access the cloud data via Foogle and Facebook, lag heavily in the game. |
 | Roblox | 2.499.381 | ⚠️ | Graphical anomalies | GMS warnings might appear but these can be safely ignored |
 | Rootless Launcher | 3.9.1 | ❌ | App crashes |
 | SATRIA | 1.0.0 | ❌ | Needs fingerprint reader support | |
@@ -308,4 +310,4 @@ wsa://com.android.settings
 | Ymusic | 3.7.2 | ✅ ||
 | ZArchiver | 0.9.5.8 (9596) | ✅ ||
 | Zenly (w/o GMS) | 4.55.2 | ⚠️ | App crashes after login, but background location works |
-| Zoom | 5.8.3.2634 | ⚠️ | Camera severely glitched, share screen doesn't work due to WSA's windowed nature. | |
+| Zoom | 5.8.3.2634 | ⚠️ | Camera severely glitched, share screen doesn't work due to WSA's windowed nature. |
